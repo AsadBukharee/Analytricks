@@ -1462,7 +1462,7 @@ Counters Sec
 .portfolio-three .item-img-overlay:before{
     content: "";
     position: absolute;
-    background: #ff573b;
+    background: gray;
     top: 0;
     left: 0;
     width: 100%;
