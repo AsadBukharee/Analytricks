@@ -1419,7 +1419,7 @@ Counters Sec
 
 
 .portfolio-three .filtering span:hover{
-    color: #ff573b;
+    color: gray;
 }
 
 .portfolio-three .filtering span:last-child{
@@ -1536,7 +1536,7 @@ Counters Sec
 }
 
 .gradient-bg1 {
-    background: #ff573b;
+    background: gray;
 }
 
 
